@@ -1,6 +1,6 @@
 # LOLCODE - Python Interpreter
 
-Submitted in fulfillment of my final project for CMSC124 (*Design and Implementation of Programming Languages*), University of the Philippines Los Baños (UPLB). The goal was to build an [interpreter](https://en.wikipedia.org/wiki/Interpreter_(computing)) the [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE) programming language from the ground up.
+Submitted in fulfillment of my final project for CMSC124 (*Design and Implementation of Programming Languages*), University of the Philippines Los Baños. The goal was to build an [interpreter](https://en.wikipedia.org/wiki/Interpreter_(computing)) the [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE) programming language from the ground up.
 
 The interpreter goes through three stages:
 
@@ -10,6 +10,14 @@ The interpreter goes through three stages:
 
 A PyQt UI displays all lexemes and symbols as the LOLCODE source is executed.
 The code has been largely obfuscated to avoid issues with university policy. 
+
+# Demo
+
+
+
+https://github.com/aalbayda/lolcodepy/assets/33396782/a68da128-ff90-4daf-add1-798f037dbb7b
+
+
 
 # Set Up
 
